@@ -5,7 +5,8 @@ language_command =
 setcommands_command =
     .description = Set bot commands
 
-welcome = Welcome!
+welcome = Welcome to the game!
+game = Game starts
 language = 
     .select = Please, select your language
     .changed = Language successfully changed!
